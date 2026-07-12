@@ -1,10 +1,10 @@
-# Q&A Chatbot 🤖
+# Q&A Chatbot 
 
 🔗 **Live Application:** [askquery-chatbot.streamlit.app](https://askquery-chatbot.streamlit.app/)
 
 A clean, interactive web application built with **Streamlit** and powered by **LangChain** and **Google Gemini** models. This app allows users to choose their preferred Gemini model, tune inference configurations (temperature and output token limits) dynamically, and ask questions through a form-batch interface.
 
-## 🚀 Features  
+## Features  
 
 - **Interactive UI:** Dynamic settings sidebar built with Streamlit.
 - **Model Flexibility:** Toggle seamlessly between different Gemini models (`Gemini 3.1 Flash-Lite`, `Gemini 2.5 Flash`, `Gemini 2.0 Flash`).
@@ -14,7 +14,7 @@ A clean, interactive web application built with **Streamlit** and powered by **L
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend Interface:** Streamlit
 - **LLM Orchestration:** LangChain Core & LangChain Google GenAI Integration
@@ -22,7 +22,7 @@ A clean, interactive web application built with **Streamlit** and powered by **L
 
 ---
 
-## 💻 Getting Started (Local Setup)
+## Getting Started (Local Setup)
 
 Follow these steps to set up the project sandbox on your local Windows system.
 
